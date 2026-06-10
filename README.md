@@ -4,54 +4,7 @@
 # Human Resources Analytics - Milestone Report
 ***
 
-**"Yeah, they all said that to me..."**, *Bob replied as we were at Starbucks sipping on our dark roast coffee. Bob is a friend of mine and was the owner of a multi-million dollar company, that's right, "m-i-l-l-i-o-n". He used to tell me stories about how his company's productivity and growth has sky rocketed from the previous years and everything has been going great. But recently, he's been noticing some decline within his company. In a five month period, he lost one-fifth of his employees. At least a dozen of them throughout each department made phone calls and even left sticky notes on their tables informing him about their leave. Nobody knew what was happening. In that year, he was contemplating about filing for bankruptcy. Fast-forward seven months later, he's having a conversation with his co-founder of the company. The conversation ends with, **"I quit..."***
-
-That is the last thing anybody wants to hear from their employees. In a sense, it’s the employees who make the company. It’s the employees who do the work. It’s the employees who shape the company’s culture. Long-term success, a healthy work environment, and high employee retention are all signs of a successful company. But when a company experiences a high rate of employee turnover, then something is going wrong. This can lead the company to huge monetary losses by these innovative and valuable employees.
-
 Companies that maintain a healthy organization and culture are always a good sign of future prosperity. Recognizing and understanding what factors that were associated with employee turnover will allow companies and individuals to limit this from happening and may even increase employee productivity and growth. These predictive insights give managers the opportunity to take corrective steps to build and preserve their successful business.
-
-** "You don't build a business. You build people, and people build the business." - Zig Ziglar**
-***
-
-<img src="https://static1.squarespace.com/static/5144a1bde4b033f38036b7b9/t/56ab72ebbe7b96fafe9303f5/1454076676264/"/>
-
-## About This Kernel
-***
-
-*Hopefully the kernel added some new insights/perspectives to the data science community! If there are any suggestions/changes you would like to see in the Kernel please let me know :). Appreciate every ounce of help!* **#KernelsAward #Kaggle**
-
-*This notebook will always be a work in progress. Please leave any comments about further improvements to the notebook! Any feedback or constructive criticism is greatly appreciated!. Thank you guys!*
-
-## Business Problem
-***
-*Bob's multi-million dollar company is about to go bankrupt and he wants to know why his employees are leaving.*
-
-## Client
-***
-*Bob the Boss*
-
-## Objective
-***
-*My goal is to understand what factors contribute most to employee turnover and create a model that can predict if a certain employee will leave the company or not.*
-
-## OSEMN Pipeline
-****
-
-*I’ll be following a typical data science pipeline, which is call “OSEMN” (pronounced awesome).*
-
-1. **O**btaining the data is the first approach in solving the problem.
-
-2. **S**crubbing or cleaning the data is the next step. This includes data imputation of missing or invalid data and fixing column names.
-
-3. **E**xploring the data will follow right after and allow further insight of what our dataset contains. Looking for any outliers or weird data. Understanding the relationship each explanatory variable has with the response variable resides here and we can do this with a correlation matrix. 
-
-4. **M**odeling the data will give us our predictive power on whether an employee will leave. 
-
-5. I**N**terpreting the data is last. With all the results and analysis of the data, what conclusion is made? What factors contributed most to employee turnover? What relationship of variables were found? 
-
-**Note:** *The data was found from the “Human Resources Analytics” dataset provided by Kaggle’s website. https://www.kaggle.com/ludobenistant/hr-analytics*
-
-**Note:** THIS DATASET IS **SIMULATED**.
 
 # Part 1: Obtaining the Data 
 ***
